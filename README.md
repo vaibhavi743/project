@@ -77,7 +77,7 @@ python main.py
 ===== PERSONAL DATA COLLECTOR =====
 
 Enter your Name: Vaibhavi
-Enter your Age: 19
+Enter your Age: 21
 Enter your Height: 5.4
 Enter your Favourite Number: 7
 
