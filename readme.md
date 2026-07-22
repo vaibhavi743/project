@@ -33,13 +33,13 @@ The application contains two main modules:
 
 Example:
 
-'''
+```
 *
 **
 ***
 ****
 *****
-'''
+```
 
 ---
 
@@ -57,8 +57,7 @@ Then it performs:
 - Handles invalid ranges.
 
 Example:
-
-'''
+```
 10 -> Even
 11 -> Odd
 12 -> Even
@@ -67,19 +66,19 @@ Example:
 15 -> Odd
 
 Sum = 75
-'''
+```
 
 ---
 
 ## 📋 Menu
 
-'''
+```
 ========== LOGIC BOX ==========
 1. Generate Pattern
 2. Analyze Numbers
 3. Exit
 ===============================
-'''
+```
 
 ---
 
