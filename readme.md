@@ -174,7 +174,7 @@ After completing this project, you will understand:
 
 ### Pattern Generator
 
-'''
+```
 Enter rows: 5
 
 *
@@ -182,11 +182,11 @@ Enter rows: 5
 ***
 ****
 *****
-'''
+```
 
 ### Number Analyzer
 
-'''
+```
 Start: 10
 End: 15
 
@@ -198,7 +198,7 @@ End: 15
 15 -> Odd
 
 Sum = 75
-'''
+```
 
 ---
 
